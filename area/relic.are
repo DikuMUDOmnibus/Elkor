@@ -1,0 +1,745 @@
+#AREA	Rotain   Menzoberranzan~
+
+
+
+#HELPS
+0 DROW~
+
+Drow are an elite and deadly force of mages clerics and warriors.  They 
+are dedicated to there deity Lloth.  Lloth binds them togther and grants 
+them there powers.  The drow channel power thought Lloth avatar to gain 
+favour's in return.
+
+* Offer      - Offer power points to lloths avatar
+
+* Grant      - Lloth avatar command to grant powers to followers
+
+* Drowcreate - Lloth avatar command to create drow relics
+
+* Sign       - Drow chat channel
+
+In addition drow's can have a number of powers granted to them by Lloth 
+Type 'help Drowpowers' for more
+~
+
+0 DROWPOWERS~
+( Commoner )
+
+* Drowsight      -  lets you see all people and rooms
+
+* Drowshield     -  shield your arua from others
+
+* Levivation     -  super fly spell
+
+* Darkness       -  turns a room complety dark to everyone else
+
+( Noble )
+
+* Drowpoison     - favour to grant immuntiy to poison
+
+* Drowfire       - improved faeire fire    
+
+* Spider         - creates a drow spider follower   
+
+~
+
+0 $~
+
+
+
+#MOBILES
+#29600
+Lloths spider~
+a spider of Lloth's~
+a spider of Lloth is here.
+~
+The spider bears it fangs at you!!!
+~
+2 0 -1000 S
+10 2 2 1d1+300 1d8+32
+100000 80000 
+8 8 1
+#0
+
+
+
+#OBJECTS
+#29600
+drow sword adamantite~
+a drow adamantite sword~
+A drow adamantite sword lies here.~
+~
+5 16384 8193
+18053 25 50 3
+1 1000000 1
+A
+18 10
+A
+19 10
+#29601
+drow piwafwi~
+a drow piwafwi~
+A drow piwafwi lies here.~
+~
+9 0 1025
+25 0 0 24
+1 1000000 1
+A
+18 5
+A
+19 5
+#29602
+drow adamantite armor~
+a drow adamantite armor~
+A drow adamantite armor lies here.~
+~
+9 0 9
+25 0 0 16
+1 1000000 1
+A
+18 5
+A
+19 5
+#29603
+drow boots~
+a pair of drow boots~
+A pair of drow boots lies here.~
+~
+9 0 65
+25 0 0 23
+1 1000000 1
+A
+18 5
+A
+19 5
+#29604
+drow mask~
+a drow face mask~
+A drow face mask lies here.~
+~
+9 0 32769
+25 0 0 21
+1 1000000 1
+A
+18 5
+A
+19 5
+#29605
+bracers blinding strike~
+bracers of blinding strike~
+A pair of gleaming arm bracers lie here.~
+~
+9 0 257
+25 0 0 17
+1 1000000 1
+A
+18 5
+A
+19 5
+#29650
+white angelic ring~
+a white angelic ring~
+A ring crafted from white angelsteel lies here.~
+~
+9 0 3
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29651
+white angelic collar~
+a white angelic collar~
+A collar crafted from white angelsteel lies here.~
+~
+9 0 5
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29652
+white angeic armor armour breastplate plate~
+a white angelic breastplate~
+A breastplate crafted from white angelsteel lies here.~
+~
+9 0 9
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29653
+white angelic helmet~
+a white angelic helmet~
+A helmet crafted from white angelsteel lies here.~
+~
+9 0 17
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29654
+white angelic leggings~
+a pair of white demonic leggings~
+A pair of leggings crafted from white angelsteel lies here.~
+~
+9 0 33
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29655
+white angelic boots~
+a pair of white angelic boots~
+A pair of boots crafted from white angelsteel lies here.~
+~
+9 0 65
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29656
+white angelic gauntlets gloves~
+a pair of white angelic gauntlets~
+A pair of gauntlets crafted from white angelsteel lies here.~
+~
+9 0 129
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29657
+white angelic sleeves~
+a pair of white angelic sleeves~
+A pair of sleeves crafted from white angelsteel lies here.~
+~
+9 0 257
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29658
+white angelic cape~
+a white angelic cape~
+A cape crafted from white angelsilk lies here.~
+~
+9 0 1025
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29659
+white angelic belt~
+a white angelic belt~
+A belt crafted from white angelsteel lies here.~
+~
+9 0 2049
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29660
+white angelic bracer~
+a white angelic bracer~
+A bracer crafted from white angelsteel lies here.~
+~
+9 0 4097
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29661
+white angelic visor~
+a white angelic visor~
+A visor crafted from white angelsteel lies here.~
+~
+9 0 32769
+25 0 0 0
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29662
+white angelic longsword sword~
+a white angelic longsword~
+A longsword crafted from white angelsteel lies here.~
+~
+5 16384 8193
+18000 25 50 1
+1 1000000 1
+A
+18 50
+A
+19 50
+#29663
+white angelic shortsword sword~
+a white angelic shortsword~
+A shortsword crafted from white angelsteel lies here.~
+~
+5 16384 8193
+17000 25 50 1
+1 1000000 1
+A
+18 50
+A
+19 50
+#29664
+blue angelic ring~
+a blue angelic ring~
+A blue crafted from blue angelsteel lies here.~
+~
+9 0 3
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29665
+blue angelic collar~
+a blue angelic collar~
+A collar crafted from blue angelsteel lies here.~
+~
+9 0 5
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29666
+blue angelic armor armour breastplate plate~
+a blue angelic breastplate~
+A collar crafted from blue angelsteel lies here.~
+~
+9 0 9
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29667
+blue angelic helmet~
+a blue angelic helmet~
+A helmet crafted from blue demonsteel lies here.~
+~
+9 0 17
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29668
+blue angelic leggings~
+a pair of blue angelic leggings~
+A pair of leggings crafted from blue angelsteel lies here.~
+~
+9 0 33
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29669
+blue angelic boots~
+a pair of blue angelic boots~
+A pair of boots crafted from blue angelsteel lies here.~
+~
+9 0 65
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29670
+blue angelic gauntlets gloves~
+a pair of blue angelic gauntlets~
+A pair of gauntlets crafted from blue angelsteel lies here.~
+~
+9 0 129
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29671
+blue angelic sleeves~
+a pair of blue angelic sleeves~
+A pair of sleeves crafted from blue angelsteel lies here.~
+~
+9 0 257
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29672
+blue angelic cape~
+a blue angelic cape~
+A cape crafted from blue angelsilk lies here.~
+~
+9 0 1025
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29673
+blue angelic belt~
+a blue angelic belt~
+A belt crafted from blue angelsteel lies here.~
+~
+9 0 2049
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29674
+blue angelic bracer~
+a blue angelic bracer~
+A bracer crafted from blue angelsteel lies here.~
+~
+9 0 4097
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29675
+blue angelic visor~
+a blue angelic visor~
+A visor crafted from blue angelsteel lies here.~
+~
+9 0 32769
+50 0 0 0
+1 1000000 1
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+393216 0
+#29691
+a lesser klaive dagger~
+A Lesser Klaive~
+A small shining silver fetish dagger lies here.~
+~
+5 16384 8193
+17000 50 50 1
+1 1000000 1
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+49152 0
+#29692
+a armor moon plate~
+A moon plate~
+A gorgeous piece of the moon lies here.~
+~
+9 0 9
+25 0 0 3
+1 1000000 1
+A
+18 25
+A
+19 25
+A
+13 500
+#29693
+a armor moon ring~
+A moon ring~
+A gorgeous piece of the moon lies here.~
+~
+9 0 3
+25 0 0 16
+1 1000000 1
+A
+18 25
+A
+19 25
+A
+13 500
+#29694
+a armor moon belt~
+A moon belt~
+A gorgeous piece of the moon lies here.~
+~
+9 2 2049
+25 0 0 22
+1 1000000 1
+A
+18 25
+A
+19 25
+A
+13 500
+#29695
+highlander katana sword~
+a gleaming katana~
+A gleaming silver katana lies on the ground.~
+~
+5 16384 8193
+17000 50 50 1
+1 1000000 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+524288 0
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#$

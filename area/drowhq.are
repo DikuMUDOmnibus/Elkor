@@ -1,0 +1,164 @@
+#AREA	Noid  DrowHeadQuarter~
+
+
+#MOBILES
+#20100
+lloth~
+lloth the healer~
+Lloth the healer is here channeling energy to you....
+~
+Lloth says hi, and continues healing you.
+~
+2|64 8|32|128|512 1000 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#20100
+Drow Pit~
+This is the Drow pits, you can feel lloths presence going through you...
+~
+0 8 0
+D0
+~
+~
+0 -1 20101
+D1
+~
+~
+0 -1 20104
+D2
+~
+~
+0 -1 20102
+D3
+~
+~
+0 -1 20103
+D5
+~
+~
+0 -1 20105
+S
+#20101
+Drow Healing Pit~
+This is the healing room for the drows, lloth is here channeling lloth's energy to heal you.
+~
+0 8 0
+D2
+~
+~
+0 -1 20100
+S
+#20102
+Drow Meeting Room~
+This is the meeting room, talk, relax, or just waste your time, but this is the place you wanna be to meet.
+~
+0 8 0
+D0
+~
+~
+0 -1 20100
+S
+#20103
+Drows Portal Room~
+This is the portal room, there is a sign there I think you might wanna look at it.
+~
+0 8 0
+D1
+~
+~
+0 -1 20100
+E
+Sign~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos, Hightower, Draconia, Galaxy, Sphinx, Member of Staff, Olympus, Mahntor,
+Midgaard.
+~
+T
+arachnos~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 6200 0
+T
+hightower~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 1312 0
+T
+draconia~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 2201 0
+T
+galaxy~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 9301 0
+T
+sphinx~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 2652 0
+T
+staff~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 25008 0
+T
+olympus~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 904 0
+T
+mahntor~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 2362 0
+T
+midgaard~
+$n prays to lloth and is transported!~
+You pray to lloth and got transported!~
+all~
+16384 3001 0
+S
+#20104
+Drow Combat Center~
+This is the combat room, feel free to fight and spar.
+~
+0 8 0
+D3
+~
+~
+0 -1 20100
+S
+#20105
+Drow Sex Room~
+This is the official sex room, you can have sex all you want here.
+~
+0 8 0
+D4
+~
+~
+0 -1 20100
+S
+#0
+
+
+#SPECIALS
+M  20100 spec_cast_adept			lloth the healer
+S
+
+
+#$

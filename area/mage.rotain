@@ -1,0 +1,298 @@
+#AREA	Mages Area ( Beware )~
+
+
+#ROOMS
+#20000
+The Entrace To The Mages Tower~
+You are standing in the entrace the mages fortress.  This ancient castle must have stood here for many a year.
+~
+0 1024|8192 1
+D0
+~
+~
+0 -1 20001
+D4
+~
+~
+0 -1 20007
+S
+#20001
+The Spell Casting Camber~
+You are standing spell casting camber.  This is where completed spells are woven in the fabric of time space and magic.
+~
+0 0 1
+D0
+~
+~
+0 -1 20004
+D1
+~
+~
+0 -1 20003
+D2
+~
+~
+0 -1 20000
+D3
+~
+~
+0 -1 20002
+D4
+~
+~
+0 -1 20005
+D5
+~
+~
+0 -1 20006
+S
+#20002
+The ArchMage DarkDemon's Room~
+You are standing in darkdemon's room.
+~
+0 1024|8192 1
+D1
+~
+~
+0 -1 20001
+S
+#20003
+The Blue Temple~
+   You enter the temple, looking around with wonder at the dusty
+monument's interior.  From the carvings and inscriptions, you guess
+that it was built by elves and dwarves together during a peaceful age
+long ago.  Dust covers almost everything, especially the stairs
+leading down into the earth by the nave.
+~
+0 1024|8192 1
+D3
+~
+~
+0 -1 20001
+S
+#20004
+The ArchMage Skeeve's Private Chamber~
+You are standing in Skeeve's Room.
+~
+0 1024|8192 1
+D2
+~
+~
+0 -1 20001
+S
+#20005
+The ArchMage Milanna's Private Study~
+You are standing in Milanna's room.
+~
+0 1024|8192 1
+D5
+~
+~
+0 -1 20001
+S
+#20006
+The ArchMage Shamus's Spell Chamber~
+You are standing in a spell chamber.  This chamber is full of books and strange markings.  The markings are shaped in a pentogram on the floor.
+~
+0 1024|8192 1
+D4
+~
+~
+0 -1 20001
+S
+#20007
+The Gateway To The Planes~
+You are standing in a large camber.  Up is the gateway to other worlds.  
+All around are the cambers of life and magic.
+~
+0 1024|8192 1
+D0
+~
+~
+0 -1 20008
+D1
+~
+~
+0 -1 20009
+D2
+~
+~
+0 -1 20010
+D4
+~
+~
+0 -1 20011
+D5
+~
+~
+0 -1 20000
+S
+#20008
+The Weave Of Health~
+You are standing in a spell chamber.  This chamber is full of books and strange markings.  The markings are shaped in a pentogram on the floor.
+~
+0 1024|8192 1
+D2
+~
+~
+0 -1 20007
+T
+&kill*me*~
+The room flashes bright green.~
+copy~
+all~
+4096 43 0
+S
+#20009
+The Weave Of Magic~
+You are standing in a spell chamber.  This chamber is full of books and strange markings.  The markings are shaped in a pentogram on the floor.
+~
+0 1024|8192 1
+D3
+~
+~
+0 -1 20007
+T
+&kill*me*~
+The room flashes bright blue.~
+copy~
+all~
+4096 90 0
+S
+#20010
+The Weave Of Movement~
+You are standing in a spell chamber.  This chamber is full of books and strange markings.  The markings are shaped in a pentogram on the floor.
+~
+0 1024|8192 1
+D0
+~
+~
+0 -1 20007
+T
+&kill*me*~
+The room flashes bright red.~
+copy~
+all~
+4096 55 0
+S
+#20011
+The Mage Portals~
+You stand before the mage portals.  These ancient portals were here 
+before the clan was here.  There are strange markings in an ancient lanuage 
+now forgotten by mortal man. 
+To the NORTH is the MIDGAARD portal. 
+To the SOUTH the NEW THALOS portal.
+~ 
+0 1024|8192 1 
+D0
+~
+~
+1 -1 3001
+D1
+~
+~
+1 -1 20012 
+D2
+~
+~
+1 -1 5300
+D3 
+~
+~
+1 -1 20013
+D5
+~
+~
+1 -1 20007
+S
+#20012
+The Mage Portals~
+You stand before the mage portals.  
+To the NORTH is the HIGH TOWER portal. 
+To the SOUTH the GALAXAY portal.
+~ 
+0 1024|8192 1
+D0
+~
+~
+1 -1 1312
+D1
+~
+~
+1 -1 20015 
+D2
+~
+~
+1 -1 9302
+D3 
+~
+~
+1 -1 20011
+S
+#20013
+The Mage Portals~
+You stand before the mage portals.  
+To the NORTH is the DRACO portal. 
+To the SOUTH the MAHN-TOR portal.
+~ 
+0 1024|8192 1
+D0
+~
+~
+1 -1 9355
+D1
+~
+~
+1 -1 20011
+D2
+~
+~
+1 -1 2362
+D3
+~
+~
+1 -1 20014
+S
+#20014
+The Mage Portals~
+You stand before the mage portals.  
+To the NORTH is the MEGA CITY ONE portal. 
+To the SOUTH the DRACONIAN portal.
+~ 
+0 1024|8192 1
+D0
+~
+~
+1 -1 8001
+D1
+~
+~
+1 -1 20013
+D2
+~
+~
+1 -1 2201
+S
+#20015
+The Mage Portals~
+You stand before the mage portals.  
+To the NORTH is the DROW CITY portal. 
+To the SOUTH the NOMAND CAMP portal.
+~ 
+0 1024|8192 1
+D0
+~
+~
+1 -1 5267
+D2
+~
+~
+1 -1 5056
+D3
+~
+~
+1 -1 20012
+S
+#0
+
+#$

@@ -1,0 +1,195 @@
+#AREA	Noid  RedTalons HQ~
+
+
+#MOBILES
+#20200
+frost~
+Frost the Healer~
+Frost the healer is here and he is generating power to use on YOU!
+~
+Frost is a a former member of red talons, he is the wise and oldest werewolf in red talons, he still wants to help so he is healing you.
+~
+2|64 8|32|128|512 1000 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20201
+red talons wolf~
+The Red Talons Wolf~
+This Wolf is mean red and he just might put you in bed.  Death bed that is.
+~
+This Wolf is mean red and he just might put you in bed.  Death bed that is.  
+~
+67 680 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#20200
+Red Talons HeadQuarters~
+You are standing in the red talons headquarter, this is the neutral place of their operations.
+~
+0 4|8 0
+D0
+~
+~
+0 -1 20201
+D1
+~
+~
+0 -1 20204
+D2
+~
+~
+0 -1 20206
+D3
+~
+~
+0 -1 20203
+D4
+~
+~
+0 -1 20205
+D5
+~
+~
+0 -1 20202
+S
+#20201
+Healing Room~
+This is the healing room, you see frost the healer is generating his power, and focusing on you.
+~
+0 4|8 0
+D2
+~
+~
+0 -1 20200
+S
+#20202
+Combat Center~
+This is where the red talons werewolves practice before they enter the world of player killing, you don't have to be here, but you can fight all you want here.
+~
+0 4|8 0
+D4
+~
+~
+0 -1 20200
+S
+#20203
+Cannibus's Room~
+This is Cannibus room he is your lord,master,king. You should bow down and thanking him for making you a werewolf of red talons.
+~
+0 4|8 0
+D1
+~
+~
+0 -1 20200
+S
+#20204
+Goody's Room~
+This is your lord,master,king Goody's room. He is the one who made you what you are to him so you owe a oath to him that you will stay with red talons for your life.
+~
+0 4|8 0
+D3
+~
+~
+0 -1 20200
+S
+#20205
+Portal room~
+This is the portal room, its like a jungle in here, and you might wanna take a look at this bush.
+~
+0 4|8 0
+D5
+~
+~
+0 -1 20200
+E
+Bush~
+The bush seems to show a list of areas.  The following are listed:
+Arachnos, Hightower, Draconia, Galaxy, Sphinx, Member of Staff, Olympus, Mahntor,
+Midgaard.
+~
+T
+arachnos~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 6200 0
+T
+hightower~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 1312 0
+T
+draconia~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 2201 0
+T
+galaxy~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 9301 0
+T
+sphinx~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 2652 0
+T
+staff~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 25008 0
+T
+olympus~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 904 0
+T
+mahntor~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 2362 0
+T
+midgaard~
+$n roars so loud that a moon gate opens for $n!~
+You roar so loud that a moon gate opens!~
+all~
+16384 3001 0
+S
+#20206
+Meeting Room~
+The Red Talons Meeting Room is here, here you talk everything you want, talk to your leaders on issues like people who are killing you, and your leader might even kill your enemies.
+~
+0 4|8 0
+D0
+~
+~
+0 -1 20200
+S
+#0
+
+
+#RESETS
+*
+M 1 20200 1 20201			Frost the Healer to Healing Room
+S
+
+
+#SPECIALS
+M  20200 spec_cast_adept			Frost the Healer
+S
+
+
+#$

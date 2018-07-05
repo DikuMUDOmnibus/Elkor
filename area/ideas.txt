@@ -1,0 +1,6 @@
+[ 1511] Cannibus: make some noteboards placed around
+[ 6350] Cannibus: shorten the commands such as make portal port and corpse cor
+[29701] Cannibus: like on god wars make it so members of the same clan cant attack each other
+[29701] Cannibus: also like on god wars make an alliance thing for clans who want to be allied
+[ 3054] DraKus: Fix avix and goody please
+[ 2659] Zelucifur: make a gossip board

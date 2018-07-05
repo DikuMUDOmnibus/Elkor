@@ -1,0 +1,195 @@
+#AREA	{CLAN } Order   Hell~
+
+
+#MOBILES
+#1234
+angelic cleric~
+An Angelic cleric~
+An Angelic Cleric is here.
+~
+This cleric is detecated to all the good and preservation of heaven.
+~
+2|64 8|128 1000 S
+50 -10 -20 1d1+29999 2d4+30
+0 0
+8 8 1
+#6
+st st. peter~
+St. Peter~
+St. Peter the guardian of heaven is here.
+~
+St. Peter is deticated to the protection of good.  
+~
+67 680 -1000 S
+2000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#8
+god lord dead~
+God~
+God is here smiling at you.
+~
+God is the lord of all and you should obey him.
+~
+67 680 -1000 S
+2345 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#OBJECTS
+#9
+throne~
+a white throne~
+~
+~
+15 0 0
+1000 5 -1 0
+5000 1 1
+#0
+
+
+#ROOMS
+#30000
+Heaven~
+You are standing in heaven.  This must be the most beautiful place.
+Heaven is truly awe inspiring.
+~
+0 8 1
+D0
+~
+~
+0 -1 3
+D5
+~
+~
+0 -1 4
+D3
+~
+~
+0 -1 5
+D1
+~
+~
+0 -1 7
+S
+#3
+The Angelic Altar~
+You stand before a great altar to God lord of all.  You feel his presence 
+all around you here, soothing your wounds and healing your soul.
+~
+0 8|16|32|128|1024 1
+D2
+~
+~
+0 -1 30000
+S
+#4
+The Pearly White Gates of Heaven~
+You stand before the gates of heaven. There are bright white portals all around you.
+~
+0 8 1
+D4
+~
+~
+0 -1 30000
+E
+Gate heaven gates pearly white~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos, Hightower, Draconia, Galaxy, Sphinx, Member of Staff, Olympus, Mahntor,
+MIdgaard.
+~
+T
+arachnos~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 6200 0
+T
+hightower~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 1312 0
+T
+draconia~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 2201 0
+T
+galaxy~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 9301 0
+T
+sphinx~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 2652 0
+T
+staff~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 25008 0
+T
+olympus~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 904 0
+T
+mahntor~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 2362 0
+T
+midgaard~
+$n is engulfed in a bright light and vanishes into the ground!~
+You are engulfed in a bright light and vanish into the ground!~
+all~
+16384 3001 0
+S
+#5
+The Throne Room~
+~
+0 8 1
+D1
+~
+~
+0 -1 30000
+S
+#7
+Along the river~
+You stand along the river where many angels ponder what to do.~
+0 8 1
+D3
+~
+~
+0 -1 30000
+S
+#0
+
+
+#RESETS
+M 1 1234 1 3		   angelic cleric At temple
+M 1 6 1 7              St. Peter at the bank
+M 1 8 1 5              God at throne room
+O 0 9 1 5              throne in throne room
+S
+
+
+#SPECIALS
+M  1234 spec_cast_adept			the demonic cleric
+M  6    spec_clan_demon                 cerberus
+M  8    spec_clan_demon                 hades
+S
+
+
+#$
+

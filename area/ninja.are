@@ -1,0 +1,203 @@
+#AREA	Noid  Ninja HQ~
+
+
+#MOBILES
+#26500
+The Ninja Healer~
+Ninja Healer~
+The ninja must be a master, his concealment in the smoke is so well-chosen.
+~
+Ninja Healer has razor sharp tsume claws.
+~
+2|64 8|32|128|512 1000 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#26501
+ninja guardian~
+Ninja Guardian~
+The Ninja Guardian stands here protecting his ninja friends.
+~
+Ninja Guardian has razor sharp claws.
+Ninja Guardian has a black mask worn on.
+~
+2|4 8|32|128|512|8192|524288 1000 S
+3000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#26500
+Entrance~
+You are standing in a small, very dark guild.  The light is very scarce, as if the people were hiding. As you look around, you see a small room north, and a stair case leading up.
+~
+0 8 0
+D0
+~
+~
+0 -1 26501
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 26504
+D3
+~
+~
+0 -1 26502
+D5
+~
+~
+0 -1 26505
+S
+#26501
+Ninja Guild~
+This is where ninjas practice skills, such as leaping into shadows, being un-noticed.  To the north is another room.  To the south is the entrance.
+~
+0 8 0
+D0
+~
+~
+0 -1 26503
+D2
+~
+~
+0 -1 26500
+S
+#26502
+Ninja Meeting Quarters~
+This is where the ninjas sleep/talk among themselves in private.
+~
+0 8 0
+D1
+~
+~
+0 -1 26500
+S
+#26503
+Healing Chamber~
+The room is so dark, you would think that someone dropped smoke bombs.  Through the smoke, you see red eyes glowing.
+~
+0 8|1024 0
+D2
+~
+~
+0 -1 26501
+S
+#26504
+Hide Out~
+This is where the ninjas escape to talk about things.  It is even darker than the room that you came from.  On the west wall, you see a dagger with runes engraved on the hilt.  I would take a look if I were you.
+~
+0 8 0
+D0
+~
+~
+0 -1 26500
+E
+dagger hilt~
+You feel over the dagger's runes, with your increased knowledge of reading runes, you can make out the words:
+Arachnos, Hightower, Draconia, Galaxy, Sphinx, Member of Staff, Olympus, Mahntor,
+Midgaard.
+~
+T
+arachnos~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 6200 0
+T
+hightower~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 1312 0
+T
+draconia~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 2201 0
+T
+galaxy~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 9301 0
+T
+sphinx~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 2652 0
+T
+staff~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 25008 0
+T
+olympus~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 904 0
+T
+mahntor~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 2362 0
+T
+midgaard~
+$n throws a smoke bomb to the ground and vanish!~
+You throw a smoke bomb to the ground and vanish!~
+all~
+16384 3001 0
+S
+#26505
+Combat Room~
+The Combat room is here, you can fight and practice your mysterious ninjas powers before you go into a real combat.
+~
+0 8 0
+D2
+~
+~
+0 -1 26506
+D4
+~
+~
+0 -1 26500
+S
+#26506
+Ninjas Lounge~
+This is the ninjas lounge, come here to relax and meditate to regain strength.
+~
+0 8 0
+D0
+~
+~
+0 -1 26505
+S
+#0
+
+
+#RESETS
+*
+M 1 26501 1 26500			Ninja Guardian to Entrance
+*
+M 1 26500 1 26503			Ninja Healer to Healing Chamber
+S
+
+
+#SPECIALS
+M  26500 spec_cast_adept			Ninja Healer
+M  26501 spec_clan_ninja			Ninja Guardian
+S
+
+
+#$

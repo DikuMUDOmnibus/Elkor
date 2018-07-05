@@ -1,0 +1,4737 @@
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1010.
+[*****] BUG: Dam_message: bad dt 1010.
+[*****] BUG: Dam_message: bad dt 1010.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1010.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[30223] Cannibus: in the black spral dancers hq the portal to the Member of staff doesnt work
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[30221] Cannibus: a mortal heard a howl  between me and dak
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1010.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[29701] Cannibus: goody and avix are bugged because evytime they log on it shcrashes
+[ 3054] DraKus: AVIX is bugged so is goody
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1010.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Load_specials: 'M': vnum 30221.
+[*****] BUG: Load_specials: 'M': vnum 30221.
+[*****] BUG: Load_specials: 'M': vnum 30221.
+[*****] BUG: Load_specials: 'M': vnum 30221.
+[*****] BUG: Load_specials: 'M': vnum 30221.
+[*****] BUG: Slot_lookup: bad slot 83.
+[*****] BUG: Load_specials: 'M': vnum 29701.
+[*****] BUG: Load_specials: 'M': vnum 29701.
+[*****] BUG: Load_specials: 'M': vnum 29701.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_mob_index: bad vnum 3011.
+[*****] BUG: Get_mob_index: bad vnum 3011.
+[*****] BUG: Load_mobiles: vnum 3001 duplicated.
+[*****] BUG: Load_mobiles: vnum 3001 duplicated.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Get_room_index: bad vnum 18000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Get_mob_index: bad vnum 7700.
+[*****] BUG: Get_mob_index: bad vnum 7700.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[ 1521] Cannibus: julian can here howl and howl himself as a vamp
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Item_type_name: unknown type -23614.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Load_rooms: vnum 6073 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 6073 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 6073 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 6073 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 6073 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 6073 has flag not 'DES'.
+[*****] BUG: Load_rooms: vnum 20205 has flag not 'DES'.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 30013 not found.
+[*****] BUG: Extract_obj: obj 30013 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Str_cmp: null astr.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Donate Room Does Not Exist : 6643
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 30004 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 30033 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Donate Room Does Not Exist : 6641
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1005.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1015.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Item_type_name: unknown type -19358.
+[*****] BUG: Item_type_name: unknown type -19358.
+[*****] BUG: Item_type_name: unknown type -19358.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.
+[*****] BUG: Dam_message: bad dt 1000.

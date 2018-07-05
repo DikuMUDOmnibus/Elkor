@@ -1,0 +1,202 @@
+#AREA   Elkor   BSD HQ~
+
+
+#MOBILES
+#30220
+wyrm spirit cleric~
+A Spirit of the Wyrm~
+A Spirit of the Wyrm is here.
+~
+This wyrm is dedicated to Dak's Black Spiral Dancers.
+~
+2|64 8|128 1000 S
+50 -10 -20 1d1+29999 2d4+30
+0 0
+8 8 1
+#30221
+wyrm wolf~
+The Wyrm Wolf~
+The Wyrm Wolf is here ready to obey the Black Spiral Dancers.
+~
+The Wyrm Wolf is deticated to the protection of the Black Spiral Dancers.  
+~
+67 680 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30222
+Cain~
+Cain Lord of the Wyrm~
+Cain Lord of the Wyrm is here.
+~
+Cain is dedicated to the evil.
+~
+2|64 8|128 1000 S
+500 2 2 1d1+1499 2d4+30
+12000 80000
+8 8 1
+#0
+
+
+#OBJECTS
+#30223
+altar~
+A wyrmish altar~
+~
+~
+15 0 0
+1000 5 -1 0
+5000 1 1
+#0
+
+
+#ROOMS
+#30221
+Black Spiral Dancers Head Quarters~
+You are standing in the Black Spiral Dancer's HQ.  The Black Spiral Dancers
+are a glorious clan with the wonder of the wyrm.  They are not to be messed with.
+~
+0 8 1
+D0
+~
+~
+0 -1 30222
+D5
+~
+~
+0 -1 30223
+D3
+~
+~
+0 -1 30224
+D1
+~
+~
+0 -1 30225
+S
+#30222
+The Wyrmish Altar~
+You stand before a great alter to Dak the Black Spiral Dancers Chief.  You feel his presence 
+all around you here, soothing your wounds and stealing your soul.
+~
+0 8|16|32|128 1
+D2
+~
+~
+0 -1 30221
+S
+#30223
+Wyrm World~
+You stand before the gates of the Wyrm World. There are bloody portals all around you.
+~
+0 8 1
+D4
+~
+~
+0 -1 30221
+E
+Gate bloody portals blood portal wyrm world gates~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos, Hightower, Draconia, Galaxy, Sphinx, Member of Staff, Olympus, Mahntor,
+Midgaard, TimeLord.
+~
+T
+arachnos~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 6200 0
+T
+hightower~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 1312 0
+T
+timelord~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 2549 0
+T
+draconia~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 2201 0
+T
+galaxy~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 9301 0
+T
+sphinx~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 2652 0
+T
+staff~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 25008 0
+T
+olympus~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 904 0
+T
+mahntor~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 2362 0
+T
+midgaard~
+$n is engulfed in blood and vanishes into the ground!~
+You are engulfed in blood and vanish into the ground!~
+all~
+16384 3001 0
+S
+#30224
+Dak's Private Chambers~
+You better get out of Dak's private chambers...
+~
+0 8 1
+D1
+~
+~
+0 -1 30221
+S
+#30225
+For the love of wyrm~
+Pictures of all of the great wyrm adorn these walls.
+~
+0 8 1
+D3
+~
+~
+0 -1 30221
+S
+#0
+
+
+#RESETS
+M 1 30220 1 30222       wyrm spirit cleric At the wyrmish altar
+M 1 30221 1 30223       the wyrm wolf at for the love of wyrm
+M 1 30222 1 30224       Cain Lord of the Wyrm at Dak's Private Chambers
+O 0 30223 1 30224       altar in Dak's Private Chambers
+S
+
+
+#SPECIALS
+M  30220 spec_cast_adept                 wyrm spirit cleric
+M  30221 spec_clan_werewolf              wyrm wolf
+S
+
+
+#$
+
